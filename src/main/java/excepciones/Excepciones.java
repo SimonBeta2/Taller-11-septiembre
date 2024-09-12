@@ -3,7 +3,7 @@ package excepciones;
 import java.io.IOException;
 
 /**
- * Menjo de excepciones que podemos controlar: Ingreso de los datos.
+ * Manejo de excepciones que podemos controlar: Ingreso de los datos.
  * 
  * @author Maria Segura
  */
