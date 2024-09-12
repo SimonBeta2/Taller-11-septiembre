@@ -1,2 +1,2 @@
 Taller 11 de septiembre
-Integrantes: Maria Del Carmen Segura Ortiz y Simon Betancur Sosa
+Integrantes: Maria Del Carmen Segura Ortiz y Simón Betancur Sosa
