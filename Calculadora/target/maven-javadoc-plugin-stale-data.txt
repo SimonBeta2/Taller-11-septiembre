@@ -1,0 +1,51 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'C:/Users/Simon/Downloads/CalculadoraOperativa/CalculadoraOperativa/Calculadora - Excepciones/Calculadora/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Simon/Downloads/CalculadoraOperativa/CalculadoraOperativa/Calculadora - Excepciones/Calculadora/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Calculadora 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Calculadora 1.0-SNAPSHOT API'
+com.mycompany.calculadora
+excepciones
+menu
+operaciones
+C:\Users\Simon\Downloads\CalculadoraOperativa\CalculadoraOperativa\Calculadora - Excepciones\Calculadora\src\main\java = 1725990659377
+C:\Users\Simon\Downloads\CalculadoraOperativa\CalculadoraOperativa\Calculadora - Excepciones\Calculadora\target\site\apidocs\allclasses-index.html = 1726095000047
+C:\Users\Simon\Downloads\CalculadoraOperativa\CalculadoraOperativa\Calculadora - Excepciones\Calculadora\target\site\apidocs\allpackages-index.html = 1726095000057
+C:\Users\Simon\Downloads\CalculadoraOperativa\CalculadoraOperativa\Calculadora - Excepciones\Calculadora\target\site\apidocs\copy.svg = 1726095000262
+C:\Users\Simon\Downloads\CalculadoraOperativa\CalculadoraOperativa\Calculadora - Excepciones\Calculadora\target\site\apidocs\element-list = 1726094999604
+C:\Users\Simon\Downloads\CalculadoraOperativa\CalculadoraOperativa\Calculadora - Excepciones\Calculadora\target\site\apidocs\help-doc.html = 1726095000243
+C:\Users\Simon\Downloads\CalculadoraOperativa\CalculadoraOperativa\Calculadora - Excepciones\Calculadora\target\site\apidocs\index-all.html = 1726095000183
+C:\Users\Simon\Downloads\CalculadoraOperativa\CalculadoraOperativa\Calculadora - Excepciones\Calculadora\target\site\apidocs\index.html = 1726094999954
+C:\Users\Simon\Downloads\CalculadoraOperativa\CalculadoraOperativa\Calculadora - Excepciones\Calculadora\target\site\apidocs\link.svg = 1726095000267
+C:\Users\Simon\Downloads\CalculadoraOperativa\CalculadoraOperativa\Calculadora - Excepciones\Calculadora\target\site\apidocs\member-search-index.js = 1726095000071
+C:\Users\Simon\Downloads\CalculadoraOperativa\CalculadoraOperativa\Calculadora - Excepciones\Calculadora\target\site\apidocs\module-search-index.js = 1726095000061
+C:\Users\Simon\Downloads\CalculadoraOperativa\CalculadoraOperativa\Calculadora - Excepciones\Calculadora\target\site\apidocs\overview-summary.html = 1726095000216
+C:\Users\Simon\Downloads\CalculadoraOperativa\CalculadoraOperativa\Calculadora - Excepciones\Calculadora\target\site\apidocs\overview-tree.html = 1726094999927
+C:\Users\Simon\Downloads\CalculadoraOperativa\CalculadoraOperativa\Calculadora - Excepciones\Calculadora\target\site\apidocs\package-search-index.js = 1726095000064
+C:\Users\Simon\Downloads\CalculadoraOperativa\CalculadoraOperativa\Calculadora - Excepciones\Calculadora\target\site\apidocs\script.js = 1726095000258
+C:\Users\Simon\Downloads\CalculadoraOperativa\CalculadoraOperativa\Calculadora - Excepciones\Calculadora\target\site\apidocs\search-page.js = 1726095000290
+C:\Users\Simon\Downloads\CalculadoraOperativa\CalculadoraOperativa\Calculadora - Excepciones\Calculadora\target\site\apidocs\search.html = 1726095000193
+C:\Users\Simon\Downloads\CalculadoraOperativa\CalculadoraOperativa\Calculadora - Excepciones\Calculadora\target\site\apidocs\search.js = 1726095000274
+C:\Users\Simon\Downloads\CalculadoraOperativa\CalculadoraOperativa\Calculadora - Excepciones\Calculadora\target\site\apidocs\stylesheet.css = 1726095000254
+C:\Users\Simon\Downloads\CalculadoraOperativa\CalculadoraOperativa\Calculadora - Excepciones\Calculadora\target\site\apidocs\tag-search-index.js = 1726095000100
+C:\Users\Simon\Downloads\CalculadoraOperativa\CalculadoraOperativa\Calculadora - Excepciones\Calculadora\target\site\apidocs\type-search-index.js = 1726095000068
